@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+
+# Local user feedback database
+feedback.jsonl
+
+# Python cache and build directories
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit local configurations
+.streamlit/config.toml
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

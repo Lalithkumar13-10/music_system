@@ -1,0 +1,162 @@
+{
+  "anger": [
+    {
+      "name": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "id": "5jX92x5U66A467614e54ee",
+      "url": "https://open.spotify.com/track/5jX92x5U66A467614e54ee"
+    },
+    {
+      "name": "Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "id": "59WN2zrUe7JUn5h48kf9eb",
+      "url": "https://open.spotify.com/track/59WN2zrUe7JUn5h48kf9eb"
+    },
+    {
+      "name": "Chop Suey!",
+      "artist": "System Of A Down",
+      "id": "2xVrq57f6W9Wb4Y0g8e83w",
+      "url": "https://open.spotify.com/track/2xVrq57f6W9Wb4Y0g8e83w"
+    },
+    {
+      "name": "In The End",
+      "artist": "Linkin Park",
+      "id": "60a0w1tZqg9jKDRUrrNn5I",
+      "url": "https://open.spotify.com/track/60a0w1tZqg9jKDRUrrNn5I"
+    },
+    {
+      "name": "Duality",
+      "artist": "Slipknot",
+      "id": "61mWtotL750QGle22zYQ95",
+      "url": "https://open.spotify.com/track/61mWtotL750QGle22zYQ95"
+    }
+  ],
+  "fear": [
+    {
+      "name": "Creep",
+      "artist": "Radiohead",
+      "id": "7oK959Jm6r326t6ce2JslK",
+      "url": "https://open.spotify.com/track/7oK959Jm6r326t6ce2JslK"
+    },
+    {
+      "name": "bury a friend",
+      "artist": "Billie Eilish",
+      "id": "4SSnNuJiUeIK700AuRAuDO",
+      "url": "https://open.spotify.com/track/4SSnNuJiUeIK700AuRAuDO"
+    },
+    {
+      "name": "Nightcall",
+      "artist": "Kavinsky",
+      "id": "0FE9tL34u1n5u4t44c1234",
+      "url": "https://open.spotify.com/track/0FE9tL34u1n5u4t44c1234"
+    },
+    {
+      "name": "Intro",
+      "artist": "The xx",
+      "id": "2usr33Xw9B1W01e1nN8x2y",
+      "url": "https://open.spotify.com/track/2usr33Xw9B1W01e1nN8x2y"
+    },
+    {
+      "name": "Hysteria",
+      "artist": "Muse",
+      "id": "7hl732v4C6u0VjAL9spEsL",
+      "url": "https://open.spotify.com/track/7hl732v4C6u0VjAL9spEsL"
+    }
+  ],
+  "happy": [
+    {
+      "name": "Happy",
+      "artist": "Pharrell Williams",
+      "id": "60nZcImufyMA1MKQ08616K",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQ08616K"
+    },
+    {
+      "name": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "id": "6FXg2u455o8K6p356fc8wX",
+      "url": "https://open.spotify.com/track/6FXg2u455o8K6p356fc8wX"
+    },
+    {
+      "name": "Shut Up and Dance",
+      "artist": "Walk The Moon",
+      "id": "4kbj5M0A0mG4wJ0t67ev4Q",
+      "url": "https://open.spotify.com/track/4kbj5M0A0mG4wJ0t67ev4Q"
+    },
+    {
+      "name": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "id": "32OaN66g3P3W0F4r9D3f7s",
+      "url": "https://open.spotify.com/track/32OaN66g3P3W0F4r9D3f7s"
+    },
+    {
+      "name": "Walking on Sunshine",
+      "artist": "Katrina and the Waves",
+      "id": "05wIrxUrVLM7j58Q9Rx4LO",
+      "url": "https://open.spotify.com/track/05wIrxUrVLM7j58Q9Rx4LO"
+    }
+  ],
+  "neutral": [
+    {
+      "name": "Sunrise",
+      "artist": "Norah Jones",
+      "id": "74qV55H565j0t9S11A6W3E",
+      "url": "https://open.spotify.com/track/74qV55H565j0t9S11A6W3E"
+    },
+    {
+      "name": "Banana Pancakes",
+      "artist": "Jack Johnson",
+      "id": "5SF4wJ0t67ev4Qkbj5M0A0",
+      "url": "https://open.spotify.com/track/5SF4wJ0t67ev4Qkbj5M0A0"
+    },
+    {
+      "name": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "id": "3oZ66t8n8b87n8K9n98wXz",
+      "url": "https://open.spotify.com/track/3oZ66t8n8b87n8K9n98wXz"
+    },
+    {
+      "name": "Weightless",
+      "artist": "Marconi Union",
+      "id": "6oZ66t8n8b87n8K9n98wXz",
+      "url": "https://open.spotify.com/track/6oZ66t8n8b87n8K9n98wXz"
+    },
+    {
+      "name": "Breathe Me",
+      "artist": "Sia",
+      "id": "2oZ66t8n8b87n8K9n98wXz",
+      "url": "https://open.spotify.com/track/2oZ66t8n8b87n8K9n98wXz"
+    }
+  ],
+  "sad": [
+    {
+      "name": "Someone Like You",
+      "artist": "Adele",
+      "id": "4JV4y14nzy2i6qgg57H2wI",
+      "url": "https://open.spotify.com/track/4JV4y14nzy2i6qgg57H2wI"
+    },
+    {
+      "name": "Fix You",
+      "artist": "Coldplay",
+      "id": "7fBv7NaS61gR26VuiEsHG0",
+      "url": "https://open.spotify.com/track/7fBv7NaS61gR26VuiEsHG0"
+    },
+    {
+      "name": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "id": "7qEHsqaaNs1B3R3W3DSm6v",
+      "url": "https://open.spotify.com/track/7qEHsqaaNs1B3R3W3DSm6v"
+    },
+    {
+      "name": "Mad World",
+      "artist": "Gary Jules",
+      "id": "3JOcXhTI252Sg44o74M6Sg",
+      "url": "https://open.spotify.com/track/3JOcXhTI252Sg44o74M6Sg"
+    },
+    {
+      "name": "Skinny Love",
+      "artist": "Bon Iver",
+      "id": "23t552xW4oZ66k8b87n8K9",
+      "url": "https://open.spotify.com/track/23t552xW4oZ66k8b87n8K9"
+    }
+  ]
+}
